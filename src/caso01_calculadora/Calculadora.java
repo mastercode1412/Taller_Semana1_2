@@ -1,3 +1,7 @@
+// Autor: Francisco Portocarrero Rios
+// Curso: Técnicas de Programación
+// Caso Práctico 1: Calculadora Básica Modularizada
+
 package caso01_calculadora; // Declaramos el paquete correcto donde está la clase
 
 // Importamos Scanner para leer datos del usuario
