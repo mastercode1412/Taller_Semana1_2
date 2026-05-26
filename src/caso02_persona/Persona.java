@@ -1,6 +1,6 @@
 // Autor: Francisco Portocarrero Rios
 // Curso: Técnicas de Programación
-// Caso Práctico 2: Entidad Persona - Atributos y Comportamiento.
+// Caso Práctico 2: Entidad Persona - Atributos y Comportamiento..
 
 package caso02_persona;
 

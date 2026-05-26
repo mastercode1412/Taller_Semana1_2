@@ -1,6 +1,6 @@
 // Autor: Francisco Portocarrero Rios
 // Curso: Técnicas de Programación
-// Caso Práctico 2: Clase Conductora de Instanciación.
+// Caso Práctico 2: Clase Conductora de Instanciación..
 
 package caso02_persona;
 
