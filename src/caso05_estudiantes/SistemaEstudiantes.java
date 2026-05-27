@@ -1,6 +1,6 @@
 // Autor: Francisco Portocarrero Rios
 // Curso: Técnicas de Programación
-// Caso Práctico 5: Gestión Dinámica de ArrayList y Control de Excepciones
+// Caso Práctico 5: Gestión Dinámica de ArrayList y Control de Excepciones.
 
 package caso05_estudiantes;
 
