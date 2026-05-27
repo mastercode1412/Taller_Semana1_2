@@ -1,6 +1,6 @@
 // Autor: Francisco Portocarrero Rios
 // Curso: Técnicas de Programación
-// Caso Práctico 4: Atributos de Clase y Modificador Static
+// Caso Práctico 4: Atributos de Clase y Modificador Static.
 
 package caso04_static;
 
